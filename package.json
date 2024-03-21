@@ -1,0 +1,20 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "variable_types.js",
+  "scripts": {
+    
+    "start": "node index.js",
+    "01_variable_types": "nodemon 01_variable_types.js",
+    "02_datatypes_and_ecma_standards": "nodemon 02_datatypes_and_ecma_standards.js",
+    "03_comparison": "nodemon 03_comparison.js",
+    "04_strings": "nodemon 04_strings.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
