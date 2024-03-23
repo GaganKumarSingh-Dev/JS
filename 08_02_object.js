@@ -32,3 +32,18 @@ const obj4 = Object.assign({},obj1, obj2); //all values in later object are goin
 console.log(obj4);
 console.log(Object.entries(obj4));
 
+// ================================================================================
+
+const course = {
+    courseName: "html mastery",
+    price: 1234,
+    instructor: "gaggu"
+}
+
+const {instructor} = course;
+console.log(instructor);
+
+const {courseName: cname} = course;
+console.log(cname);
+
+
