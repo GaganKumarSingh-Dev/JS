@@ -14,6 +14,7 @@
     "06_date_and_time": "nodemon 06_date_and_time.js",
     "07_array": "nodemon 07_array.js",
     "08_object": "nodemon 08_object.js",
+    "08_02_object": "nodemon 08_02_object.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
