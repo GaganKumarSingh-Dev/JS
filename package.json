@@ -10,6 +10,7 @@
     "02_datatypes_and_ecma_standards": "nodemon 02_datatypes_and_ecma_standards.js",
     "03_comparison": "nodemon 03_comparison.js",
     "04_strings": "nodemon 04_strings.js",
+    "05_nums_and_maths": "nodemon 05_nums_and_maths.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
