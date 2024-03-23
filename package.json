@@ -11,6 +11,9 @@
     "03_comparison": "nodemon 03_comparison.js",
     "04_strings": "nodemon 04_strings.js",
     "05_nums_and_maths": "nodemon 05_nums_and_maths.js",
+    "06_date_and_time": "nodemon 06_date_and_time.js",
+    "07_array": "nodemon 07_array.js",
+    "08_object": "nodemon 08_object.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
