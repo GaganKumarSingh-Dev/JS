@@ -15,6 +15,7 @@
     "07_array": "nodemon 07_array.js",
     "08_object": "nodemon 08_object.js",
     "08_02_object": "nodemon 08_02_object.js",
+    "09_functions": "nodemon 09_functions.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
